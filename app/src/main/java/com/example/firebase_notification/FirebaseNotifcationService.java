@@ -60,6 +60,7 @@ public class FirebaseNotifcationService extends FirebaseMessagingService {
 
         Log.e("titleee", String.valueOf(remoteMessage.getNotification()));
         String s = String.valueOf(remoteMessage.getNotification().getTitle());
+        showNotification(s,context);
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
             showNotification(s,context);
         }
