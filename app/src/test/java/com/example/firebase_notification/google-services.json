@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "579612291346",
+    "project_id": "java-notification-80976",
+    "storage_bucket": "java-notification-80976.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579612291346:android:8fbf24a23cc31475e7c3cb",
+        "android_client_info": {
+          "package_name": "com.example.firebase_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7fjAU5HLpIGtN-8g795C-rGSOpdT0HxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
